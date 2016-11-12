@@ -101,7 +101,7 @@ public class frmOperaciones extends javax.swing.JFrame {
         // TODO add your handling code here:
         int numA = Integer.parseInt(txtNumA.getText());
         int numB = Integer.parseInt(txtNumB.getText());
-        JOptionPane.showMessageDialog(this, "La suma es: " + (numA + numB));
+        JOptionPane.showMessageDialog(this, "La sumatoria de los numeros es: " + (numA + numB));
     }//GEN-LAST:event_btnSumarActionPerformed
 
     /**
